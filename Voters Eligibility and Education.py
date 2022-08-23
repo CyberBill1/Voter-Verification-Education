@@ -1,3 +1,4 @@
+#Program Written by Ede Ifeanyichukwu Barth
 #About The Program:
 #This Python program verifies if a prospective voter is eligible to vote by accepting input of year of birth from the user.
 #Upon confirmation that one is eligible it directs the voter to proceed for Biometric Accreditation while educating the voter not to sell his/her vote.
